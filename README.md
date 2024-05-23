@@ -1,6 +1,7 @@
-# DSA_Employee_ManagementMySQL
+# DSA_Employee_ManagementMySQL 
 
 EmployeeManagementMySQL
+
 1. Create Database
 First, open MySQL Workbench and connect to your MySQL server. Then, execute the following SQL command to create a new database:
 
