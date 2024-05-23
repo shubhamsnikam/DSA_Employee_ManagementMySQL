@@ -16,3 +16,6 @@ Now, insert some dummy data into these tables.
 Insert Data into Departments Table
 Insert Data into Salaries Table
 Insert Data into Employees Table
+
+4. Perform Queries
+Now, let's perform some queries to retrieve and manipulate the data.
