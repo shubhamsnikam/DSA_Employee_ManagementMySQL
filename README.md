@@ -19,3 +19,9 @@ Insert Data into Employees Table
 
 4. Perform Queries
 Now, let's perform some queries to retrieve and manipulate the data.
+Retrieve All Employees
+Retrieve Employees with Their Department Names
+Retrieve Employees with Their Salaries
+Retrieve Employees Hired After a Certain Date
+Update an Employee's Salary
+Delete an Employee
